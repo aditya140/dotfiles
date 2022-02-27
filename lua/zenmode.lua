@@ -41,7 +41,7 @@ true_zen.setup(
             custome_bg = "#1e222a"
         },
         integrations = {
-            integration_galaxyline = true
+            lualine= true
         }
     }
 )
